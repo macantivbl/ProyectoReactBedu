@@ -172,7 +172,7 @@ export default function PersistentDrawerLeft() {
 
                 <List>
                     {['Github'].map((text, index) => (
-                        <a href='https://github.com/macantivbl' style={{ textDecoration: 'none' }}>
+                        <a href='https://github.com/macantivbl/ProyectoReactBedu' style={{ textDecoration: 'none' }}>
                             <ListItem button key={text}>
 
                                 <ListItemIcon>
